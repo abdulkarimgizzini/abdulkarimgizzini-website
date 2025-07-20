@@ -60,7 +60,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+#  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -70,7 +70,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
+#  - block: collection
     id: news
     content:
       title: Recent News
