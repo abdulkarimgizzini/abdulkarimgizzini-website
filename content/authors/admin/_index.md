@@ -7,7 +7,7 @@ name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Abdul Karim
-last_name: Chien
+last_name: GIZZINI
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: R&D Project Manager
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SogetiLabs Research and Innovation (part of Capgemini)
+    url: https://labs.sogeti.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
