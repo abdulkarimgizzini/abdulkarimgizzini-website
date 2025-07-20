@@ -11,7 +11,8 @@ last_name: GIZZINI
 
 # Status emoji
 status:
-  icon: ☕
+  icon: <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e51de941-e7a3-42d9-94b3-38d453e68582" />
+
 
 # Is this the primary user of the site?
 superuser: true
