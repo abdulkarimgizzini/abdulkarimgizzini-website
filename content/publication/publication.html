@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Summary }}</p>
+
+  <h2>Journal Articles</h2>
+  <ul>
+    {{ range where .Pages "Params.publication_types" "intersect" (slice "2") }}
+      <li>
+        <strong>{{ .Title }}</strong> <br>
+        {{ with .Params.authors }}{{ delimit . ", " }}{{ end }}.
+        {{ .Params.publication }} ({{ .Date.Format "2006" }})
+        {{ with .Params.url_pdf }}[PDF]({{ . }}){{ end }}
+      </li>
+    {{ end }}
+  </ul>
+
+  <h2>Conference Papers</h2>
+  <ul>
+    {{ range where .Pages "Params.publication_types" "intersect" (slice "1") }}
+      <li>
+        <strong>{{ .Title }}</strong> <br>
+        {{ with .Params.authors }}{{ delimit . ", " }}{{ end }}.
+        {{ .Params.publication }} ({{ .Date.Format "2006" }})
+        {{ with .Params.url_pdf }}[PDF]({{ . }}){{ end }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
