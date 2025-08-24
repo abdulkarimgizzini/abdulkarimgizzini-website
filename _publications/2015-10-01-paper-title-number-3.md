@@ -2,8 +2,8 @@
 title: "Reconfigurable Deep Learning Augmented Channel Estimation for Vehicular Networks on System on Chip"
 collection: publications
 category: manuscripts
-[//]: # permalink: /publication/2015-10-01-paper-title-number-3
-# excerpt: 'test'
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: ' '
 date: 2025-08-19
 venue: 'IEEE Transactions on Consumer Electronics'
 [//]: # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
