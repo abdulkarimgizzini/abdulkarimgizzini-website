@@ -3,11 +3,11 @@ title: "Reconfigurable Deep Learning Augmented Channel Estimation for Vehicular 
 collection: publications
 category: manuscripts
 [//]: # permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+[//]: # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2025-08-19
 venue: 'IEEE Transactions on Consumer Electronics'
 [//]: # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11130519'
 citation: 'S. A. u. haq, S. J. Darak and A. K. Gizzini, "Reconfigurable Deep Learning Augmented Channel Estimation for Vehicular Networks on System on Chip," in IEEE Transactions on Consumer Electronics, doi: 10.1109/TCE.2025.3600481.'
 ---
 
