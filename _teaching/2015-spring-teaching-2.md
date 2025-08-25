@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "AI-based Image Processing"
 collection: teaching
-type: "Workshop"
+type: "ESIEE-IT"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Engineering Cycle Master - SID"
+date: 2023-10-01
+location: "Cergy, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Keywords: Computer Vision, Classification, Segmentation, Object Detection, Instance Segmentation.
