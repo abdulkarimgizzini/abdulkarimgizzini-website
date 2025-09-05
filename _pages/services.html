@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "Talks"
+title: "Services"
 permalink: /services/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% if site.servicemap_link == true %}
 
 <p style="text-decoration:none;"> See a map of all the places I've given a talk! </p>
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% for post in site.services reversed %}
   {% include archive-single-service.html %}
 {% endfor %}
 
