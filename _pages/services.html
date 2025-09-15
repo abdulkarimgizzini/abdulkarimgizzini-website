@@ -15,3 +15,20 @@ author_profile: true
   {% include archive-single-service.html %}
 {% endfor %}
 
+
+---
+layout: archive
+title: "Reviewer"
+permalink: /services2/
+author_profile: true
+---
+
+{% if site.servicemap_link == true %}
+
+<p style="text-decoration:none;"> See a map of all the places I've given a talk! </p>
+
+{% endif %}
+
+{% for post in site.services reversed %}
+  {% include archive-single-service2.html %}
+{% endfor %}
