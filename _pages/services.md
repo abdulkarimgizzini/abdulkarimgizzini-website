@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 <h2 style="color: lightblue;">Conference Co-Chairs</h2>
-## Conference Co-Chairs
+<!-- ## Conference Co-Chairs -->
 * Session Chair, IEEE ICC 2023, SAC-08 MLCN Track (Machine Learning for Communications)
   
 
-
-## TPC (Technical Program Committee)
+<h2 style="color: lightblue;">TPC (Technical Program Committee)</h2>
+<!--## TPC (Technical Program Committee) -->
 * IEEE CCNC 2026 - T10: AI/ML for Communications and Networking
 * IEEE ICC 2025 - SAC-08 MLCN Track (Machine Learning for Communications)	
 * IEEE Globecom 2025 SAC - MLCN (Machine Learning for Communications and Networking)
@@ -22,8 +22,8 @@ author_profile: true
 * COMSNETS 2023 - MINDS Workshop (COMSNETS 2023 MINDS Workshop)
 
 
-
-## Reviewer for Journals
+<h2 style="color: lightblue;">Reviewer for Journals</h2>
+<!--## Reviewer for Journals -->
 * IEEE Transactions on Vehicular Technology
 * IEEE Transactions on Machine Learning in Communications and Networking
   
