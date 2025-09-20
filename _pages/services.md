@@ -1,22 +1,30 @@
 ---
 layout: archive
-title: "Technical Program Committee Member"
+title: "Service"
 permalink: /services/
 author_profile: true
 ---
 
-
-## Reviewer for Journals
-* IEEE Transactions on Wireless Communications
-* IEEE Transactions on Communications
+## Conference Co-Chairs
+* Session Chair, IEEE ICC 2023, SAC-08 MLCN Track (Machine Learning for Communications)
+  
 
 
 ## TPC (Technical Program Committee)
-* IEEE PIMRC’24 Track 1 PHY & Fundamentals, 2024
-* IEEE WCNC 2024 - WS-07: Integrated, Intelligent and Ubiquitous Connectivity for 6G Networks, 2024
-* IEEE Conference on Vehicular Technology (VTC) - Radio Access Technology and Heterogeneous Networks, 2024.
+* IEEE CCNC 2026 - T10: AI/ML for Communications and Networking
+* IEEE ICC 2025 - SAC-08 MLCN Track (Machine Learning for Communications)	
+* IEEE Globecom 2025 SAC - MLCN (Machine Learning for Communications and Networking)
+* IEEE MeditCom 2024 - WS-05 (WS-05: 1st International Workshop on Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN))
+* IEEE ICMLCN 2024
+* IEEE ICC 2024 - SAC-08 MLCN Track (Machine Learning for Communications)
+* IEEE ICC 2023 - SAC-08 MLCN Track (Machine Learning for Communications)
+* COMSNETS 2023 - MINDS Workshop (COMSNETS 2023 MINDS Workshop)
 
 
-## Reviewer for Conferences
-* IEEE International Conference on Communications (ICC)
+
+## Reviewer for Journals
+* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Machine Learning in Communications and Networking
+  
+
 
