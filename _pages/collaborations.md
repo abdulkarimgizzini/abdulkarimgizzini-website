@@ -5,14 +5,7 @@ permalink: /collaborations/
 author_profile: true
 ---
 
-<style>
-  .collaboration-item {
-    transition: transform 0.2s;
-  }
-  .collaboration-item:hover {
-    transform: translateY(-5px);
-  }
-</style>
+
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 py-8 px-4 max-w-7xl mx-auto">
   <div class="collaboration-item bg-gray-50 rounded-lg shadow-md p-6 flex flex-col items-center text-center">
     <div class="text-4xl text-gray-700 mb-4">🏛️</div>
