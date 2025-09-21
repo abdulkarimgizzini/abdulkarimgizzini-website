@@ -20,14 +20,14 @@ main:
   - title: "Service"
     url: /services/
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Supervision"
+    url: /supervision/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Projects"
+    url: /projects/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Collaborations"
+    url: /collaborations/
     
   # - title: "CV"
   #   url: /cv-json/
