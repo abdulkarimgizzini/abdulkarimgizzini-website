@@ -232,6 +232,15 @@ collections:
   services:       
     output: true
     permalink: /services/:path/
+  supervision:       
+    output: true
+    permalink: /supervision/:path/
+  projects:       
+    output: true
+    permalink: /projects/:path/
+  collaborations:       
+    output: true
+    permalink: /collaborations/:path/
 
 
 # These settings control how pages and collections are included in the site
