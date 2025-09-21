@@ -56,6 +56,7 @@ Finally, we develop an approach based on Explainable Artificial Intelligence (XA
 
 <h2 style="color: lightblue;">Internships</h2>
 
+
 ## Student: Stéphane KOUAME
 
 * **Title:** XAI-assisted Deep Receiver Design in Wireless Communications.
@@ -65,6 +66,17 @@ Finally, we develop an approach based on Explainable Artificial Intelligence (XA
 <br/>
 
 ---
+
+## Student: Ali Saleh
+
+* **Title:** Explainable AI for Remote Sensing and Image Segmentation
+* **Establishment:** SogetiLabs & GEOAI Group - France/Lebanon.
+* **Duration:** March 2025 - August 2025.
+
+<br/>
+
+---
+
 
 ## Student: Romain GRANGE
 
@@ -96,6 +108,17 @@ Finally, we develop an approach based on Explainable Artificial Intelligence (XA
 
 ---
 
+## Student: Reem Hammoud
+
+* **Title:** XAI Evaluation Strategies and Metrics for Semantic Segmentation.
+* **Establishment:** SogetiLabs & GEOAI Group - France/Lebanon.
+* **Duration:** Jan 2024 - August 2024.
+
+<br/>
+
+---
+
+
 ## Student: Mohamed QASSIR
 
 * **Title:** SDN Network end-to-end Implementation Using MiniNet Emulator.
@@ -105,6 +128,18 @@ Finally, we develop an approach based on Explainable Artificial Intelligence (XA
 <br/>
 
 ---
+
+## Student: Hossein Shreim
+
+* **Title:** Perturbation-based XAI Schemes for Remote Sensing.
+* **Establishment:** IMT Nord Europe & GEOAI Group - France/Lebanon.
+* **Duration:** March 2023 - August 2023.
+
+<br/>
+
+---
+
+
 
 ## Student: Nada RAKRAKY 
 
