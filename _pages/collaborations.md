@@ -5,10 +5,8 @@ permalink: /collaborations/
 author_profile: true
 ---
 
-<h2 style="color: lightblue;">Conference Co-Chairs</h2>
-<!-- ## Conference Co-Chairs -->
-* Session Chair, IEEE ICC 2023, SAC-08 MLCN Track (Machine Learning for Communications)
-  
+<h2 style="color: lightblue;">Update in progress ...</h2>
+
 
 
 
