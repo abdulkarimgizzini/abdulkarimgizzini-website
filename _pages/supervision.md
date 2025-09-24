@@ -49,7 +49,7 @@ Finally, we develop an approach based on Explainable Artificial Intelligence (XA
 * **Establishment:**  IMT Nord Europe.
 * **Laboratory:**  Center for Education, Research and Innovation in Digital Systems (CERI-SN).
 * **Doctoral school:** École doctorale Mathématiques, sciences du numérique et de leurs interactions.
-* **Duration:** September 2025 - Present.
+* **Duration:** June 2023 - August 2025.
 
 <br/>
 
