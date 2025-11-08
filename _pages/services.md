@@ -7,6 +7,7 @@ author_profile: true
 
 <h2 style="color: lightblue;">Conference Co-Chairs</h2>
 <!-- ## Conference Co-Chairs -->
+* Demo Chair, IEEE ICMLCN 2026
 * Session Chair, IEEE ICC 2023, SAC-08 MLCN Track (Machine Learning for Communications)
   
 
