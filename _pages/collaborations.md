@@ -12,18 +12,18 @@ author_profile: true
 
 ### Professor: Sahar HOTEIT, Hela MAROUANE, Abdulhalim DANDOUSH -- PhD Student: Rim SAYEGH
 
-* ***Title:** Optimizing Joint Radio and Computing Resource Allocation in Vehicular Edge Computing.
-* ***Abstract:** This PhD thesis focuses on enhancing Intelligent Transportation Systems (ITS) by integrating Vehicular Edge Computing (VEC) into 5G networks to overcome the hardware limitations of individual vehicles. Since critical V2X services are highly sensitive to latency, the research leverages SDN and NFV technologies to process data at the network edge rather than in a distant cloud, thereby ensuring high bandwidth and rapid response times. The primary objective is to develop a joint resource allocation framework that efficiently manages both radio and computational resources to minimize the cumulative delay caused by transmission and processing.
-* ***Keywords:** Vehicular Communication Systems V2X, Vehicular Edge Computing (VEC), Resource Allocation.
-* ***Establishment:** Paris-Saclay University.
-* ***Laboratory:**  Signals and Systems Laboratory (Research team: Telecommunications and Networks - CentraleSupélec).
-* ***Doctoral school:** Doctoral School of Information and Communication Sciences and Technologies.
-* ***Duration:** January 2026 - Present.
+* **Title:** Optimizing Joint Radio and Computing Resource Allocation in Vehicular Edge Computing.
+* **Abstract:** This PhD thesis focuses on enhancing Intelligent Transportation Systems (ITS) by integrating Vehicular Edge Computing (VEC) into 5G networks to overcome the hardware limitations of individual vehicles. Since critical V2X services are highly sensitive to latency, the research leverages SDN and NFV technologies to process data at the network edge rather than in a distant cloud, thereby ensuring high bandwidth and rapid response times. The primary objective is to develop a joint resource allocation framework that efficiently manages both radio and computational resources to minimize the cumulative delay caused by transmission and processing.
+* **Keywords:** Vehicular Communication Systems V2X, Vehicular Edge Computing (VEC), Resource Allocation.
+* **Establishment:** Paris-Saclay University.
+* **Laboratory:**  Signals and Systems Laboratory (Research team: Telecommunications and Networks - CentraleSupélec).
+* **Doctoral school:** Doctoral School of Information and Communication Sciences and Technologies.
+* **Duration:** January 2026 - Present.
 
 <br/>
 
 
-## Professor: Laurent CLAVIER -- PhD Student: Miled ALAM
+### Professor: Laurent CLAVIER -- PhD Student: Miled ALAM
 
 * **Title:** Towards secrecy energy-efficient solutions for cooperative backscatter-aided non-orthogonal multiple access systems.
 * **Abstract:** The rapid development of next-generation wireless networks comes with increasing requirements in terms of massive connectivity, energy efficiency, and secure communications. In this context, Non-Orthogonal Multiple Access (NOMA) has emerged as a key technology to serve multiple users simultaneously over the same spectral resources. In parallel, Ambient Backscatter Communication (AmBC) offers an energy-efficient solution by enabling passive data transmission using ambient signals. However, the open nature of the wireless channel makes these systems vulnerable to passive eavesdropping attacks, which raises the need to design robust protection  mechanisms. 
