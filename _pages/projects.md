@@ -62,7 +62,7 @@ author_profile: true
 ### Project: Home Automation System with NFC and Raspberry Pi
 
 * **Role:** Engineering Senior Project (FYP).
-* **Abstract:** This project introduces an integrated Home Automation system leveraging NFC (Near Field Communication) and Raspberry Pi architecture to streamline domestic management. By centralizing the control of household appliances and access points—such as lighting and electronic door locks—into a singular mobile interface, the system eliminates manual operation in favor of digital oversight. The core of the research focuses on the synergy between the Raspberry Pi’s processing capabilities and NFC’s secure, short-range triggers to create a responsive and user-friendly smart home environment.
+* **Abstract:** This project introduces an integrated Home Automation system leveraging NFC (Near Field Communication) and Raspberry Pi architecture to streamline domestic management. By centralizing the control of household appliances and access points—such as lighting and electronic door locks into a singular mobile interface, the system eliminates manual operation in favor of digital oversight. The core of the research focuses on the synergy between the Raspberry Pi’s processing capabilities and NFC’s secure, short-range triggers to create a responsive and user-friendly smart home environment.
 * **Keywords:** Home Automation, Control System, Near Field Communications (NFC), Raspberry Pi.
 * **Duration:** March 2015 - August 2015.
 
