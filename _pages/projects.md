@@ -17,6 +17,14 @@ author_profile: true
 
 <br/>
 
+### Project: AI-based SDN Network Automation.
+
+* **Role:** Research and Development (R&D) Project Manager.
+* **Abstract:** This project focuses on leveraging AI to enable SDN network automation, specifically targeting two critical applications: traffic matrix prediction and KPI modeling. The study evaluates the transition from traditional statistical methods to advanced DL models and Graph Neural Networks, demonstrating how these AI-based solutions effectively capture complex, nonlinear behaviors. By optimizing these architectures for real-time responsiveness and structural accuracy, the project provides a robust framework for intelligent resource management and automated decision-making for SDN networks.
+* **Duration:** January 2024 - August 2025.
+
+
+<br/>
 
 ### Project: EcoTrain
 
