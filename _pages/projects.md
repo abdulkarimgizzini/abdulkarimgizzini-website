@@ -35,5 +35,28 @@ author_profile: true
 * **Keywords:** Artificial Intelligence (AI), Vehicular Communications, Channel Estimation.
 * **Duration:** January 2019 - December 2022.
 
+<br/>
+
+
+### Project: Novel Object Detection Techniques Using High Resolution Satellite Imagery.
+
+* **Role:** Master's Thesis (Oct. 2015 - Nov. 2017), Research Assistant (Dec. 2017 - Nov. 2018).
+* **Abstract:** The exponential growth of Big Earth Observation Data, driven by advanced satellite instrumentation and real-time streaming, has become a cornerstone for developing sustainable smart cities. Building detection is a fundamental component of this progress, as it allows for the precise updating of Geographic Information Systems (GIS) and more effective urban planning. This project introduces a novel detection approach that utilizes high-resolution satellite imagery and multi-feature analysis—including color, shape, and shadow detection—to accurately identify building units.
+* **Keywords:** Remote Sensing, Image Processing, Object Detection, Building Detection.
+* **Duration:** October 2015 - November 2018.
+
+
+
+<br/>
+
+
+### Project: Home Automation System with NFC and Raspberry Pi.
+
+* **Role:** Engineering Senior Project (FYP).
+* **Abstract:** This project introduces an integrated Home Automation system leveraging NFC (Near Field Communication) and Raspberry Pi architecture to streamline domestic management. By centralizing the control of household appliances and access points—such as lighting and electronic door locks—into a singular mobile interface, the system eliminates manual operation in favor of digital oversight. The core of the research focuses on the synergy between the Raspberry Pi’s processing capabilities and NFC’s secure, short-range triggers to create a responsive and user-friendly smart home environment.
+* **Keywords:** Home Automation, Control System, Near Field Communications (NFC), Raspberry Pi.
+* **Duration:** March 2015 - August 2015.
+
+
 
 
