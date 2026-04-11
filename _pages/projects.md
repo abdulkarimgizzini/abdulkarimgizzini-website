@@ -28,7 +28,7 @@ author_profile: true
 <br/>
 
 
-### Project: Advanced Deep Learning-Based Channel Estimation for Vehicular Communications.
+### Project: Advanced Deep Learning-Based Channel Estimation for Vehicular Communications
 
 * **Role:** PhD (Jan. 2019 - Dec. 2021), Postdoctoral Researcher (Jan. 2022 - Dec. 2022).
 * **Abstract:** The rapid evolution of wireless communications is essential for intelligent transportation, yet the high mobility of vehicular environments creates significant reliability challenges due to time-varying channels and the Doppler effect. Traditional channel estimation methods often struggle in these scenarios, as they are either too computationally complex for real-time use or too simplistic to remain robust. This thesis proposes leveraging Deep Learning (DL) to bridge this gap, offering a data-driven approach that identifies complex patterns without relying on rigid statistical models. By integrating optimized DL architectures, the research demonstrates that these systems can achieve high performance and superior robustness in dynamic environments while maintaining a low-complexity profile suitable for real-time implementation.
@@ -38,7 +38,7 @@ author_profile: true
 <br/>
 
 
-### Project: Novel Object Detection Techniques Using High Resolution Satellite Imagery.
+### Project: Novel Object Detection Techniques Using High Resolution Satellite Imagery
 
 * **Role:** Master's Thesis (Oct. 2015 - Nov. 2017), Research Assistant (Dec. 2017 - Nov. 2018).
 * **Abstract:** The exponential growth of Big Earth Observation Data, driven by advanced satellite instrumentation and real-time streaming, has become a cornerstone for developing sustainable smart cities. Building detection is a fundamental component of this progress, as it allows for the precise updating of Geographic Information Systems (GIS) and more effective urban planning. This project introduces a novel detection approach that utilizes high-resolution satellite imagery and multi-feature analysis—including color, shape, and shadow detection—to accurately identify building units.
@@ -50,7 +50,7 @@ author_profile: true
 <br/>
 
 
-### Project: Home Automation System with NFC and Raspberry Pi.
+### Project: Home Automation System with NFC and Raspberry Pi
 
 * **Role:** Engineering Senior Project (FYP).
 * **Abstract:** This project introduces an integrated Home Automation system leveraging NFC (Near Field Communication) and Raspberry Pi architecture to streamline domestic management. By centralizing the control of household appliances and access points—such as lighting and electronic door locks—into a singular mobile interface, the system eliminates manual operation in favor of digital oversight. The core of the research focuses on the synergy between the Raspberry Pi’s processing capabilities and NFC’s secure, short-range triggers to create a responsive and user-friendly smart home environment.
