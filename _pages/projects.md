@@ -21,7 +21,7 @@ author_profile: true
 ### Project: EcoTrain
 
 * **Role:** Postdoctoral Resracher.
-* **Abstract:** The ECOTRAIN project aims to develop a system of autonomous shuttles—lightweight, battery-powered rail vehicles capable of automated, driverless operation. The primary objective of this role is to propose and develop Vehicle-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) communication solutions. This involves studying potential V2X technologies, modeling Key Performance Indicators (KPIs) tailored to the ECOTRAIN context, and investigating physical-layer enhancements to ensure robust system performance.
+* **Abstract:** The ECOTRAIN project aims to develop a system of autonomous, lightweight, battery-powered rail vehicles. The primary objective of this role is to propose and develop Vehicle-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) communication solutions. This involves studying potential V2X technologies, modeling Key Performance Indicators (KPIs) tailored to the ECOTRAIN context, and investigating physical-layer enhancements to ensure robust system performance.
 * **Keywords:** Autonomus Train, V2X Communivations, Mission-Critical Applications.
 * **Duration:** January 2023 - December 2024.
 
