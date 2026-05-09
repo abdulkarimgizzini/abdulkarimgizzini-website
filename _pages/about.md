@@ -20,15 +20,15 @@ Research interests
 
 Work
 ======
-+ Associate Professor [September 2025 - Now] | IUT de Créteil-Vitry, UPEC - France
-+ R&D Project Manager [December 2023 - August 2025] | SogetiLabs Research and Innovation (part of Capgemini) - France 
-+ Postdoctoral Researcher [January 2023 - November 2023] | IMT Nord Europe - France
-+ Research and Teaching Assistant [January 2022 - December 2022] | ETIS, UMR8051, CY Cergy Paris University, ENSEA, CNRS - France
-+ Research assistant [December 2017 - December 2018] | GEOAI group, CNRS-L - Lebanon
+* Associate Professor [September 2025 - Now]  - IUT de Créteil-Vitry, UPEC - France
+* R&D Project Manager [December 2023 - August 2025] - SogetiLabs Research and Innovation (part of Capgemini) - France 
+* Postdoctoral Researcher [January 2023 - November 2023] - IMT Nord Europe - France
+* Research and Teaching Assistant [January 2022 - December 2022] - ETIS, UMR8051, CY Cergy Paris University, ENSEA, CNRS - France
+* Research assistant [December 2017 - December 2018] - GEOAI group, CNRS-L - Lebanon
 
 Education
 ======
-+ PhD in wireless communications [January 2019 - December 2021] | ETIS, UMR8051, CY Cergy Paris University, ENSEA, CNRS - France
-+ Master's degree in computer and communication engineering (ME)  [October 2015 - November 2017] | IUL University - Lebanon
-+ Bachelor's degree in computer and communication engineering (BE) [October 2010 - July 2015] | IUL University - Lebanon
+* PhD in wireless communications [January 2019 - December 2021] - ETIS, UMR8051, CY Cergy Paris University, ENSEA, CNRS - France
+* Master's degree in computer and communication engineering (ME)  [October 2015 - November 2017] - IUL University - Lebanon
+* Bachelor's degree in computer and communication engineering (BE) [October 2010 - July 2015] - IUL University - Lebanon
 
