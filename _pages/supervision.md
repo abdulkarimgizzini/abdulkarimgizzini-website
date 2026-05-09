@@ -9,6 +9,20 @@ author_profile: true
 <!-- # **PhD Co-Supervision** -->
 
 <h2 style="color: lightblue;">PhD Thesis</h2>
+
+## Student: Yibeltal MOLLA
+
+* **Title:** XAI-based Long-Term Evolution Design of the V2X Physical Layer.
+* **Abstract:** 6G is envisioned to transcend simple connectivity, evolving toward 'connected intelligence' where native AI serves as a fundamental pillar for end-to-end services. Although significant investments are driving AI adoption, the 'black box' nature of these models raises critical challenges regarding transparency and security, necessitating the development of Explainable AI (XAI) frameworks. However, current literature focuses primarily on theoretical studies rather than practical implementations. Specifically, at the physical layer (PHY), conventional XAI methods struggle to adapt to the high dimensionality and the lack of discriminating features in deep learning models, creating a significant gap in the development of truly deployable solutions. This thesis aims to explore XAI methods tailored to the constraints of physical layer applications, adapt these mechanisms to various deep learning approaches (single, joint, and E2E tasks), and design XAI-optimized Federated Edge Learning (FEL) models to increase the communication efficiency of decentralized V2X communications
+* **Keywords:** 6G, PHY Layer, Explainable Artificial Intelligence, V2X.
+* **Establishment:** IMT Nord Europe and Paris-East Créteil University (UPEC).
+* **Laboratory:** Center for Digital Systems (CERI-SN).
+* **Doctoral school:** Mathématiques, Sciences du Numérique et de leurs interactions (MADIS).
+* **Duration:** September 2025 - Present.
+<br/>
+
+
+
 ## Student: Abdelhak HEROUCHA
 
 * **Title:** QoE, Explicability and End-to-End trustworthiness among very large heterogeneous IoT Systems: use case of Healthcare applications.
