@@ -8,7 +8,7 @@ author_profile: true
 
 <!-- # **PhD Co-Supervision** -->
 
-<h2 style="color: lightblue;">Research Collaborations on PhD Projects</h2>
+<h2 style="color: lightblue;">Research Collaborations</h2>
 
 ### Professor: Sahar HOTEIT, Hela MAROUANE, Abdulhalim DANDOUSH -- PhD Student: Rim SAYEGH
 
