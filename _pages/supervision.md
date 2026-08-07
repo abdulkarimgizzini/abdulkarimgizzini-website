@@ -50,6 +50,17 @@ author_profile: true
 
 <h2 style="color: lightblue;">Internships - M1 - M2</h2>
 
+
+## Student: Muhammad Hashir (M2)
+
+* **Title:** Explainable AI 𝐟𝐨𝐫 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐐𝐨𝐄 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬
+* **Establishment:** UPEC - France.
+* **Duration:** May 2026 - October 2026.
+
+<br/>
+
+---
+
 ## Student: Ali Saleh (M2)
 
 * **Title:** Explainable AI for Optimized Edge Federated Learning
