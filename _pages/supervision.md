@@ -53,7 +53,7 @@ author_profile: true
 
 ## Student: Muhammad Hashir (M2)
 
-* **Title:** Explainable AI 𝐟𝐨𝐫 𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐐𝐨𝐄 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐌𝐨𝐝𝐞𝐫𝐧 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬
+* **Title:** Explainable AI for Real-Time QoE Prediction for Modern Communication Systems.
 * **Establishment:** UPEC - France.
 * **Duration:** May 2026 - October 2026.
 
@@ -63,7 +63,7 @@ author_profile: true
 
 ## Student: Ali Saleh (M2)
 
-* **Title:** Explainable AI for Optimized Edge Federated Learning
+* **Title:** Explainable AI for Optimized Edge Federated Learning.
 * **Establishment:** EFREI & UPEC - France.
 * **Duration:** April 2026 - October 2026.
 
@@ -84,7 +84,7 @@ author_profile: true
 
 ## Student: Ali Saleh (M1)
 
-* **Title:** Explainable AI for Remote Sensing and Image Segmentation
+* **Title:** Explainable AI for Remote Sensing and Image Segmentation.
 * **Establishment:** SogetiLabs & GEOAI Group - France/Lebanon.
 * **Duration:** March 2025 - August 2025.
 
