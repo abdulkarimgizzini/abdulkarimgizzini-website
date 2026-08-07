@@ -48,10 +48,20 @@ author_profile: true
 
   <br/>
 
-<h2 style="color: lightblue;">Internships</h2>
+<h2 style="color: lightblue;">Internships - M1 - M2</h2>
+
+## Student: Ali Saleh (M2)
+
+* **Title:** Explainable AI for Optimized Edge Federated Learning
+* **Establishment:** EFREI & UPEC - France.
+* **Duration:** April 2026 - October 2026.
+
+<br/>
+
+---
 
 
-## Student: Stéphane KOUAME
+## Student: Stéphane KOUAME (M2)
 
 * **Title:** XAI-assisted Deep Receiver Design in Wireless Communications.
 * **Establishment:** SogetiLabs & IMT Nord Europe - France
@@ -61,7 +71,7 @@ author_profile: true
 
 ---
 
-## Student: Ali Saleh
+## Student: Ali Saleh (M1)
 
 * **Title:** Explainable AI for Remote Sensing and Image Segmentation
 * **Establishment:** SogetiLabs & GEOAI Group - France/Lebanon.
@@ -72,7 +82,7 @@ author_profile: true
 ---
 
 
-## Student: Romain GRANGE
+## Student: Romain GRANGE (M2)
 
 * **Title:** SDN Network Automation Using Graph Neural Networks (GNNs).
 * **Establishment:** SogetiLabs & Université Claude Bernard Lyon 1- France
@@ -82,7 +92,7 @@ author_profile: true
 
 ---
 
-## Student: Ilyes GHOMARI
+## Student: Ilyes GHOMARI (M1)
 
 * **Title:** SDN Traffic Classification and Rerouting Using Reinforcement Learning (RL).
 * **Establishment:** SogetiLabs & Université UVSQ - France
@@ -92,7 +102,7 @@ author_profile: true
 
 ---
 
-## Student: Mouhamed SY
+## Student: Mouhamed SY (M1)
 
 * **Title:** Optimizing Semantic Segmentation Models with Explainable AI (XAI).
 * **Establishment:** SogetiLabs & Université PSL- France
@@ -102,7 +112,7 @@ author_profile: true
 
 ---
 
-## Student: Reem Hammoud
+## Student: Reem Hammoud (Internship)
 
 * **Title:** XAI Evaluation Strategies and Metrics for Semantic Segmentation.
 * **Establishment:** SogetiLabs & GEOAI Group - France/Lebanon.
@@ -113,7 +123,7 @@ author_profile: true
 ---
 
 
-## Student: Mohamed QASSIR
+## Student: Mohamed QASSIR (M2)
 
 * **Title:** SDN Network end-to-end Implementation Using MiniNet Emulator.
 * **Establishment:** SogetiLabs & ESIEE Paris - France
@@ -123,7 +133,7 @@ author_profile: true
 
 ---
 
-## Student: Hossein Shreim
+## Student: Hossein Shreim (M1)
 
 * **Title:** Perturbation-based XAI Schemes for Remote Sensing.
 * **Establishment:** IMT Nord Europe & GEOAI Group - France/Lebanon.
@@ -135,7 +145,7 @@ author_profile: true
 
 
 
-## Student: Nada RAKRAKY 
+## Student: Nada RAKRAKY (M2)
 
 * **Title:** Infrastructure design, security, and virtualization with VMware GNS3 simulator.
 * **Establishment:** ENSEA Cergy - France
