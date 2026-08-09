@@ -33,6 +33,31 @@ author_profile: true
 
 <hr />
 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
+<div style="flex: 3; min-width: 300px; padding-right: 20px;" markdown="1">
+
+### Professor: Ali GHANDOUR -- Masters Students: Ali SALEH, Hossein SHREIM 
+
+* **Title:** Explainable AI for Image Segmentation in Remote Sensing.
+* <div style="text-align: justify;"><strong>Abstract:</strong> While Artificial Intelligence (AI) has significantly advanced earth observation and remote sensing, deep learning models often act as opaque "black boxes," limiting their trustworthiness and practical adoption. Although Explainable AI (XAI) improves transparency, its application has largely focused on image classification rather than segmentation. This project bridges that gap by adapting recent XAI algorithms for multi-class image segmentation, focusing specifically on building extraction from high-resolution satellite imagery. Furthermore, we introduce a novel, robust XAI evaluation methodology based on "Entropy" to measure model uncertainty, demonstrating its superiority over conventional evaluation metrics. Ultimately, this research paves the way for more reliable and interpretable AI deployments in remote sensing..</div>
+* **Keywords:** eXplainable Artificial Intelligence (XAI), Remote Sensing, Building Segmentation, CAM-based Methods.
+* **Establishment:** Lebanese National Center for Remote Sensing - CNRS, Mansourieh, Beirut, Lebanon.
+* **Laboratory:**  GEOspatial Artificial Intelligence (GEOAI) Group.
+* **Duration:** January 2022 - Present.
+
+</div>
+<div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
+  <!-- Replace the src with your actual image paths -->
+  <img src="{{ base_path }}/images/cnrs_L.jpg" alt="Paris-Saclay University" style="width: 100%; object-fit: contain;">
+  <img src="{{ base_path }}/images/geoai.jpg" alt="Signals and Systems Laboratory" style="width: 100%; object-fit: contain;">
+</div>
+</div>
+
+<hr />
+
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
 <div style="flex: 3; min-width: 300px; padding-right: 20px;" markdown="1">
 
