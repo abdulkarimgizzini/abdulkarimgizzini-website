@@ -98,3 +98,27 @@ author_profile: true
   <img src="{{ base_path }}/images/iit_delhi.png" alt="IIIT-Delhi" style="width: 100%; object-fit: contain;">
 </div>
 </div>
+
+<hr />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
+<div style="flex: 3; min-width: 300px; padding-right: 20px;" markdown="1">
+
+### Professor: Gerhard P. FETTWEIS, Ahmad NIMR 
+
+* **Title:** Deep Learning-Based Channel Estimation for High-Mobility Vehicular Networks.
+* <div style="text-align: justify;"><strong>Abstract:</strong> Next-generation vehicular networks are key enablers for intelligent transportation systems, but highly dynamic environments with time-varying channels and Doppler shifts present significant reliability challenges. Conventional channel estimation methods often struggle in these scenarios, suffering from either impractical computational complexity or a lack of robustness. This research investigates the integration of Deep Learning (DL) to overcome these limitations. By adapting optimized DL architectures for high-mobility vehicular networks, the study demonstrates that data-driven estimators can provide highly accurate, robust, and low-complexity solutions. Ultimately, these DL-based models achieve an optimal trade-off between system performance and computational efficiency, ensuring reliable real-time communication in highly dynamic vehicular environments.</div>
+* **Keywords:** Vehicular Communications, Channel Estimation, Deep Learning.
+* **Establishment:**  TUD Dresden University of Technology, Dresden, Germany.
+* **Laboratory:**  TU Dresden Vodafone Chair Mobile Communications Systems.
+* **Duration:** January 2020 - December 2021.
+
+</div>
+<div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
+  <!-- Replace the src with your actual image paths -->
+  <img src="{{ base_path }}/images/tud.png" alt="Paris-Saclay University" style="width: 100%; object-fit: contain;">
+  <img src="{{ base_path }}/images/vodafone.png" alt="Signals and Systems Laboratory" style="width: 100%; object-fit: contain;">
+</div>
+</div>
+
+
