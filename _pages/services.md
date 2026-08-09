@@ -25,8 +25,13 @@ author_profile: true
 
 <h2 style="color: lightblue;">Reviewer for Journals</h2>
 <!--## Reviewer for Journals -->
+* IEEE Communications Letters
+* IEEE Wireless Communications Letters
 * IEEE Transactions on Vehicular Technology
 * IEEE Transactions on Machine Learning in Communications and Networking
+* IEEE Transactions on Wireless Communications
+* IEEE Transactions on Cognitive Communications and Networking
+
   
 
 
