@@ -20,7 +20,7 @@ author_profile: true
 ### Project: AI-based SDN Network Automation
 
 * **Role:** Research and Development (R&D) Project Manager.
-* **Abstract:** This project focuses on leveraging AI to enable SDN network automation, specifically targeting two critical applications: traffic matrix prediction and KPI modeling. The study evaluates the transition from traditional statistical methods to advanced DL models and Graph Neural Networks, demonstrating how these AI-based solutions effectively capture complex, nonlinear behaviors. By optimizing these architectures for real-time responsiveness and structural accuracy, the project provides a robust framework for intelligent resource management and automated decision-making for SDN networks.
+* <div style="text-align: justify;"><strong>Abstract:</strong> This project focuses on leveraging AI to enable SDN network automation, specifically targeting two critical applications: traffic matrix prediction and KPI modeling. The study evaluates the transition from traditional statistical methods to advanced DL models and Graph Neural Networks, demonstrating how these AI-based solutions effectively capture complex, nonlinear behaviors. By optimizing these architectures for real-time responsiveness and structural accuracy, the project provides a robust framework for intelligent resource management and automated decision-making for SDN networks.</div>
 * **Keywords:** Software-defined Network (SDN), Network Automation, Traffic Prediction, Network Modelling.
 * **Duration:** January 2024 - August 2025.
 
@@ -30,7 +30,7 @@ author_profile: true
 ### Project: EcoTrain
 
 * **Role:** Postdoctoral Researcher.
-* **Abstract:** The ECOTRAIN project aims to develop a system of autonomous, lightweight, battery-powered rail vehicles. The primary objective of this role is to propose and develop Vehicle-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) communication solutions. This involves studying potential V2X technologies, modeling Key Performance Indicators (KPIs) tailored to the ECOTRAIN context, and investigating physical-layer enhancements to ensure robust system performance.
+* <div style="text-align: justify;"><strong>Abstract:</strong> The ECOTRAIN project aims to develop a system of autonomous, lightweight, battery-powered rail vehicles. The primary objective of this role is to propose and develop Vehicle-to-Infrastructure (V2I) and Vehicle-to-Vehicle (V2V) communication solutions. This involves studying potential V2X technologies, modeling Key Performance Indicators (KPIs) tailored to the ECOTRAIN context, and investigating physical-layer enhancements to ensure robust system performance.</div>
 * **Keywords:** Autonomus Train, V2X Communivations, Mission-Critical Applications.
 * **Duration:** January 2023 - December 2024.
 
@@ -40,17 +40,17 @@ author_profile: true
 ### Project: Advanced Deep Learning-Based Channel Estimation for Vehicular Communications
 
 * **Role:** PhD (Jan. 2019 - Dec. 2021), Postdoctoral Researcher (Jan. 2022 - Dec. 2022).
-* **Abstract:** The rapid evolution of wireless communications is essential for intelligent transportation, yet the high mobility of vehicular environments creates significant reliability challenges due to time-varying channels and the Doppler effect. Traditional channel estimation methods often struggle in these scenarios, as they are either too computationally complex for real-time use or too simplistic to remain robust. This thesis proposes leveraging Deep Learning (DL) to bridge this gap, offering a data-driven approach that identifies complex patterns without relying on rigid statistical models. By integrating optimized DL architectures, the research demonstrates that these systems can achieve high performance and superior robustness in dynamic environments while maintaining a low-complexity profile suitable for real-time implementation.
+* <div style="text-align: justify;"><strong>Abstract:</strong> The rapid evolution of wireless communications is essential for intelligent transportation, yet the high mobility of vehicular environments creates significant reliability challenges due to time-varying channels and the Doppler effect. Traditional channel estimation methods often struggle in these scenarios, as they are either too computationally complex for real-time use or too simplistic to remain robust. This thesis proposes leveraging Deep Learning (DL) to bridge this gap, offering a data-driven approach that identifies complex patterns without relying on rigid statistical models. By integrating optimized DL architectures, the research demonstrates that these systems can achieve high performance and superior robustness in dynamic environments while maintaining a low-complexity profile suitable for real-time implementation.</div>
 * **Keywords:** Artificial Intelligence (AI), Vehicular Communications, Channel Estimation.
 * **Duration:** January 2019 - December 2022.
 
 <br/>
 
 
-### Project: Novel Object Detection Techniques Using High Resolution Satellite Imagery
+### Project: Novel Object Detection Techniques Using High-Resolution Satellite Imagery
 
 * **Role:** Master's Thesis (Oct. 2015 - Nov. 2017), Research Assistant (Dec. 2017 - Nov. 2018).
-* **Abstract:** The exponential growth of Big Earth Observation Data, driven by advanced satellite instrumentation and real-time streaming, has become a cornerstone for developing sustainable smart cities. Building detection is a fundamental component of this progress, as it allows for the precise updating of Geographic Information Systems (GIS) and more effective urban planning. This project introduces a novel detection approach that utilizes high-resolution satellite imagery and multi-feature analysis—including color, shape, and shadow detection—to accurately identify building units.
+* <div style="text-align: justify;"><strong>Abstract:</strong> The exponential growth of Big Earth Observation Data, driven by advanced satellite instrumentation and real-time streaming, has become a cornerstone for developing sustainable smart cities. Building detection is a fundamental component of this progress, as it allows for the precise updating of Geographic Information Systems (GIS) and more effective urban planning. This project introduces a novel detection approach that utilizes high-resolution satellite imagery and multi-feature analysis—including color, shape, and shadow detection—to accurately identify building units.</div>
 * **Keywords:** Remote Sensing, Image Processing, Object Detection, Building Detection.
 * **Duration:** October 2015 - November 2018.
 
@@ -62,7 +62,7 @@ author_profile: true
 ### Project: Home Automation System with NFC and Raspberry Pi
 
 * **Role:** Engineering Senior Project (FYP).
-* **Abstract:** This project introduces an integrated Home Automation system leveraging NFC (Near Field Communication) and Raspberry Pi architecture to streamline domestic management. By centralizing the control of household appliances and access points—such as lighting and electronic door locks into a singular mobile interface, the system eliminates manual operation in favor of digital oversight. The core of the research focuses on the synergy between the Raspberry Pi’s processing capabilities and NFC’s secure, short-range triggers to create a responsive and user-friendly smart home environment.
+* <div style="text-align: justify;"><strong>Abstract:</strong> This project introduces an integrated Home Automation system leveraging NFC (Near Field Communication) and Raspberry Pi architecture to streamline domestic management. By centralizing the control of household appliances and access points—such as lighting and electronic door locks into a singular mobile interface, the system eliminates manual operation in favor of digital oversight. The core of the research focuses on the synergy between the Raspberry Pi’s processing capabilities and NFC’s secure, short-range triggers to create a responsive and user-friendly smart home environment.</div>
 * **Keywords:** Home Automation, Control System, Near Field Communications (NFC), Raspberry Pi.
 * **Duration:** March 2015 - August 2015.
 
