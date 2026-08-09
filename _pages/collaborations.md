@@ -4,6 +4,7 @@ title: " "
 permalink: /collaborations/
 author_profile: true
 ---
+{% include base_path %}
 
 <!-- # **PhD Co-Supervision** -->
 
@@ -25,8 +26,8 @@ author_profile: true
 </div>
 <div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
   <!-- Replace the src with your actual image paths -->
-  <img src="/images/paris-saclay-logo.png" alt="Paris-Saclay University" style="width: 100%; object-fit: contain;">
-  <img src="/images/l2s.png" alt="Signals and Systems Laboratory" style="width: 100%; object-fit: contain;">
+  <img src="{{ base_path }}/images/ps.png" alt="Paris-Saclay University" style="width: 100%; object-fit: contain;">
+  <img src="{{ base_path }}/images/l2s.png" alt="Signals and Systems Laboratory" style="width: 100%; object-fit: contain;">
 </div>
 </div>
 
@@ -48,7 +49,7 @@ author_profile: true
 </div>
 <div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
   <!-- Replace the src with your actual image paths -->
-  <img src="/images/imt.png" alt="IMT Nord Europe" style="width: 100%; object-fit: contain;">
+  <img src="{{ base_path }}/images/imt.png" alt="IMT Nord Europe" style="width: 100%; object-fit: contain;">
 </div>
 </div>
 
@@ -69,6 +70,6 @@ author_profile: true
 </div>
 <div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
   <!-- Replace the src with your actual image paths -->
-  <img src="/assets/images/iit_delhi.png" alt="IIIT-Delhi" style="width: 100%; object-fit: contain;">
+  <img src="{{ base_path }}/images/iit_delhi.png" alt="IIIT-Delhi" style="width: 100%; object-fit: contain;">
 </div>
 </div>
