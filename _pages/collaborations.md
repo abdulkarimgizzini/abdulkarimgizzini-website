@@ -49,7 +49,7 @@ author_profile: true
 </div>
 <div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
   <!-- Replace the src with your actual image paths -->
-  <img src="{{ base_path }}/images/cnrs_L.jpg" alt="Paris-Saclay University" style="width: 100%; object-fit: contain;">
+  <img src="{{ base_path }}/images/cnrs_l.png" alt="Paris-Saclay University" style="width: 100%; object-fit: contain;">
   <img src="{{ base_path }}/images/geoai.jpg" alt="Signals and Systems Laboratory" style="width: 100%; object-fit: contain;">
 </div>
 </div>
