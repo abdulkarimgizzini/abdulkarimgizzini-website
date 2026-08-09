@@ -5,10 +5,12 @@ permalink: /collaborations/
 author_profile: true
 ---
 
-
 <!-- # **PhD Co-Supervision** -->
 
 <h2 style="color: lightblue;">Research Collaborations</h2>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
+<div style="flex: 3; min-width: 300px; padding-right: 20px;" markdown="1">
 
 ### Professor: Sahar HOTEIT, Hela MAROUANE, Abdulhalim DANDOUSH -- PhD Student: Rim SAYEGH
 
@@ -20,8 +22,18 @@ author_profile: true
 * **Doctoral school:** Doctoral School of Information and Communication Sciences and Technologies.
 * **Duration:** January 2026 - Present.
 
-<br/>
+</div>
+<div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
+  <!-- Replace the src with your actual image paths -->
+  <img src="/assets/images/paris-saclay-logo.png" alt="Paris-Saclay University" style="width: 100%; object-fit: contain;">
+  <img src="/assets/images/l2s-logo.png" alt="Signals and Systems Laboratory" style="width: 100%; object-fit: contain;">
+</div>
+</div>
 
+<hr />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
+<div style="flex: 3; min-width: 300px; padding-right: 20px;" markdown="1">
 
 ### Professor: Laurent CLAVIER -- PhD Student: Miled ALAM
 
@@ -33,7 +45,17 @@ author_profile: true
 * **Doctoral school:** Doctoral School of Mathematics, Digital Sciences, and Their Interactions.
 * **Duration:** June 2023 - August 2025.
 
-<br/>
+</div>
+<div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
+  <!-- Replace the src with your actual image paths -->
+  <img src="/assets/images/imt-nord-europe-logo.png" alt="IMT Nord Europe" style="width: 100%; object-fit: contain;">
+</div>
+</div>
+
+<hr />
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
+<div style="flex: 3; min-width: 300px; padding-right: 20px;" markdown="1">
 
 ### Professor: Sumit J. DARAK -- PhD Student: Syed Asrar Ul HAQ
 
@@ -44,6 +66,9 @@ author_profile: true
 * **Laboratory:**  Algorithms to Architecture (A2A) Research Lab.
 * **Duration:** May 2021 - August 2025.
 
-<br/>
-
-
+</div>
+<div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
+  <!-- Replace the src with your actual image paths -->
+  <img src="/assets/images/iiit-delhi-logo.png" alt="IIIT-Delhi" style="width: 100%; object-fit: contain;">
+</div>
+</div>
