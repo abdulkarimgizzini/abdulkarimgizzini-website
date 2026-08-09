@@ -48,7 +48,7 @@ author_profile: true
 </div>
 <div style="flex: 1; min-width: 200px; display: flex; flex-direction: column; gap: 20px; padding-top: 30px;">
   <!-- Replace the src with your actual image paths -->
-  <img src="/assets/images/imt-nord-europe-logo.png" alt="IMT Nord Europe" style="width: 100%; object-fit: contain;">
+  <img src="/images/imt.png" alt="IMT Nord Europe" style="width: 100%; object-fit: contain;">
 </div>
 </div>
 
