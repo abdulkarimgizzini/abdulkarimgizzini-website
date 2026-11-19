@@ -8,7 +8,8 @@ author_profile: true
 
 <!-- # **PhD Co-Supervision** -->
 
-<h2 style="color: lightblue;">PhD Thesis</h2>
+<h2 style="color: lightblue;">PhD Theses (In Progress)</h2>
+
 
 ## Student: Yibeltal MOLLA
 
@@ -21,6 +22,7 @@ author_profile: true
 * **Duration:** September 2025 - Present.
 <br/>
 
+---
 
 
 ## Student: Abdelhak HEROUCHA
@@ -31,7 +33,26 @@ author_profile: true
 * **Establishment:** Paris-East Créteil University (UPEC).
 * **Laboratory:**  Laboratoire Images, Signaux et Systèmes Intelligents (LISSI).
 * **Doctoral school:** École doctorale Mathématiques, Sciences et Technologies de l'Information et de la Communication.
-* **Duration:** September 2025 - Present.
+* **Duration:** September 2025 - November 2026.
+* **Defense date:** 23 November 2026.
+<br/>
+
+---
+
+<h2 style="color: lightblue;">PhD Theses (Defended)</h2>
+
+## Student: Eya Gourar
+
+* **Title:** On the Next-Generation Waveforms for Integrated Sensing and Communications in the
+Presence of Hardware Impairments.
+* <div style="text-align: justify;"><strong>Abstract:</strong> This thesis investigates communication-assisted sensing for 6G integrated sensing and communication (ISAC) networks under realistic hardware constraints, with a focus on power amplifier (PA) nonlinearities. By analyzing ambiguity functions across both conventional OFDM and next-generation, Doppler-resilient waveforms like AFDM and AFBM, this work characterizes how nonlinear amplification distorts delay-Doppler sidelobes and demonstrates the superior robustness of chirp-based modulations in high-mobility environments. To overcome the high peak-to-average power ratio (PAPR) of multicarrier signals, I develop sensing-aware PAPR reduction and sidelobe-shaping frameworks for both OFDM and AFDM. Finally, this thesis shifts optimization to the receiver side through an explainable AI (XAI) framework that identifies key signal features to improve parameter estimation accuracy, reduce processing complexity, and maintain resilience against hardware-induced distortions.</div>
+* **Keywords:**  ISAC, 6G, OFDM, AFDM, AFBM, waveform design, ambiguity function, nonlinear
+power amplifier, Deep learning, XAI.
+* **Establishment:** IMT Nord Europe and Paris-East Créteil University (UPEC).
+* **Laboratory:** Center for Digital Systems (CERI-SN).
+* **Doctoral school:** Mathématiques, Sciences du Numérique et de leurs interactions (MADIS).
+* **Duration:** September 2023 - September 2026.
+* **Defense date:** 24 September 2026.
 <br/>
 
 ---
